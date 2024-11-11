@@ -15,7 +15,7 @@ MarkupSafe==3.0.2
 networkx==3.3
 numpy==1.26.4
 osmnx==1.9.4
-packaging==24.1
+packaging==24.2
 pandas==2.2.3
 pyproj==3.7.0
 python-dateutil==2.9.0.post0
